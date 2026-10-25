@@ -1,0 +1,602 @@
+===== 19:40:16 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:17 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:18 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:19 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:20 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:21 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:22 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:23 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:24 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:25 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:26 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:27 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:28 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:29 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:30 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:31 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:32 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:33 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:34 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:35 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:36 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:37 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:38 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:39 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:40 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:41 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:42 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:43 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:44 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:45 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:46 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:47 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:48 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:49 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:50 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:51 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:52 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:53 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:54 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:55 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:56 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:57 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:58 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:40:59 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:00 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 1.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.011589403973509937
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:01 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 7.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.07947019867549665
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:02 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 8.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0927152317880795
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:03 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 11.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.1266556291390728
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:04 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 14.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.1614238410596026
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:05 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 19.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.2193708609271523
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:06 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 17.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.19701986754966883
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:07 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 18.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.20778145695364236
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:08 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 19.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.2201986754966887
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:09 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 23.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.26655629139072845
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:10 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 28.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.32284768211920534
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:11 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 28.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.32367549668874174
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:12 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 30.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.3460264900662252
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:13 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 35.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.4039735099337748
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:14 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 34.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.39403973509933776
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:15 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 44.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.5049668874172186
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:16 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 48.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.554635761589404
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:17 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 48.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.5562913907284768
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:18 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 48.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.5562913907284768
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:19 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 49.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.5678807947019868
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:20 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 52.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.6026490066225165
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:21 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 47.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.544701986754967
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:23 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 42.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.48675496688741726
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:24 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 37.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.4288079470198676
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:25 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 35.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.4056291390728477
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:26 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 29.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.3360927152317881
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:27 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 22.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.2549668874172185
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:28 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 10.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.11589403973509937
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:29 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 3.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.03476821192052981
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:30 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 1.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.011589403973509937
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:31 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:32 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:33 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:34 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:35 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:36 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:37 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:38 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:39 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:40 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:41 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0
+===== 19:41:42 =====
+vllm:num_requests_running{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting{engine="0",model_name="mango-awq"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="mango-awq",reason="deferred"} 0.0
+vllm:kv_cache_usage_perc{engine="0",model_name="mango-awq"} 0.0
+vllm:num_preemptions_total{engine="0",model_name="mango-awq"} 1.0

@@ -1,0 +1,7 @@
+(APIServer pid=1) INFO 10-24 22:10:08 [api_utils.py:345] 
+(APIServer pid=1) INFO 10-24 22:10:08 [api_utils.py:345]        █     █     █▄   ▄█
+(APIServer pid=1) INFO 10-24 22:10:08 [api_utils.py:345]  ▄▄ ▄█ █     █     █ ▀▄▀ █  version 0.27.1
+(APIServer pid=1) INFO 10-24 22:10:08 [api_utils.py:345]   █▄█▀ █     █     █     █  model   /models/MANGO1.5-Qwen3.5-9B-W8A8
+(APIServer pid=1) INFO 10-24 22:10:08 [api_utils.py:345]    ▀▀  ▀▀▀▀▀ ▀▀▀▀▀ ▀     ▀
+(APIServer pid=1) INFO 10-24 22:10:08 [api_utils.py:345] 
+(APIServer pid=1) INFO 10-24 22:10:08 [api_utils.py:273] non-default args: {'model_tag': '/models/MANGO1.5-Qwen3.5-9B-W8A8', 'enable_auto_tool_choice': True, 'tool_call_parser': 'qwen3_coder', 'host': '0.0.0.0', 'model': '/models/MANGO1.5-Qwen3.5-9B-W8A8', 'trust_remote_code': True, 'dtype': 'bfloat16', 'max_model_len': 43960, 'quantization': 'compressed-tensors', 'served_model_name': ['mango-int8'], 'reasoning_parser': 'qwen3', 'gpu_memory_utilization': 0.9, 'enable_prefix_caching': True, 'max_num_batched_tokens': 4086, 'max_num_seqs': 128, 'long_prefill_token_threshold': 1024}
